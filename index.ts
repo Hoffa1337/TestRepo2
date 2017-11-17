@@ -1,7 +1,7 @@
 module com.teknikgymnasiet.programmering {
     export class Lektion2 {
         constructor() {
-            console.log("HELLO WORLD !!");
+            console.log("HELLO SPACE!!!");
         }
     }
 }
